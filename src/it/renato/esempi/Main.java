@@ -29,7 +29,7 @@ public class Main {
 		System.out.println(nomeOggettoP);
 		
 		
-				
+		System.out.println("Prova prova sa sa");		
 				
 		
 
